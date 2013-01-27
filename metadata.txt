@@ -1,0 +1,28 @@
+; the next section is mandatory
+[general]
+name=Postgis Bounding Box
+description=Download a data from Postgis database choosing a bbox
+version=1.0
+qgisMinimumVersion=1.0
+email=francescoboccacci@libero.it
+; not used yet
+category=Database
+
+; end of mandatory metadata
+
+; start of optional metadata
+author=Francesco Boccacci
+
+changelog=
+
+; tags are in comma separated value format, spaces are allowed
+tags=database 
+
+tracker=http://hub.qgis.org/projects/postgisbbox/settings
+repository=repository=https://github.com/volterra79/postgisbbox
+
+; path to a icon within the plugin folder
+icon=postgis_select.png
+
+experimental=True
+

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/PostgisBBox" >
+        <file>zoomout.png</file>
+    </qresource>
+</RCC>

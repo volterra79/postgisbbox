@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/PostgisBBox" >
+        <file>postgis_select.png</file>
+    </qresource>
+</RCC>
